@@ -1,0 +1,29 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.cptrp-select {
+	padding: 10px; 
+	border: 1px solid #f5f5f5;
+	margin-bottom: 5px;
+}
+
+.cptrp-counter {
+	padding: 5px 10px; 
+	background-color: #f5f5f5; 
+	margin-right: 20px;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	border-radius: 50px;
+}
+
+#cptrp-settings .form-table {
+ 	background: #fff;
+ 	border: 1px solid #ddd;
+}
+
+
+#cptrp-settings  .form-table th {
+	padding: 20px 10px 20px 10px;
+}
